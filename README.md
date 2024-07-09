@@ -3,7 +3,10 @@
 <div id="header" align="center">
     <img src ="https://github.com/Jeshiko9963/Jeshiko9963/assets/174110877/958658d2-aa3c-4280-ae63-851a9b05d683">
 </div>
+<div id="social" align="center">
+   ![VK](https://github.com/Jeshiko9963/Jeshiko9963/assets/174110877/434e576b-6a76-4e8e-9cd5-5c55e9531f4e)
 
+</div>
 
 
 
