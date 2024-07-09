@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div id="header" align="center">
-    <![gif](https://github.com/Jeshiko9963/Jeshiko9963/assets/174110877/958658d2-aa3c-4280-ae63-851a9b05d683)>
+    <gif src ="https://github.com/Jeshiko9963/Jeshiko9963/assets/174110877/958658d2-aa3c-4280-ae63-851a9b05d683">
 </div>
 
 
