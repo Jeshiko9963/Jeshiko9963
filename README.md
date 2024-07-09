@@ -5,9 +5,9 @@
 </div>
 
 <div id="social" align="center">
-   <img src ="https://github.com/Jeshiko9963/Jeshiko9963/assets/174110877/4872ef9f-f3aa-430b-88e4-d6aaeecbabd5"> <!-- VK -->
-   <img src ="https://github.com/Jeshiko9963/Jeshiko9963/assets/174110877/30757edf-d3c3-4f08-8245-8963fb9f38c5"> <!-- Instagram -->
-   <img src =""> <!-- Telegram -->
+   <a href="123"><img src ="https://github.com/Jeshiko9963/Jeshiko9963/assets/174110877/4872ef9f-f3aa-430b-88e4-d6aaeecbabd5"></a> <!-- VK -->
+   <a href=""><img src ="https://github.com/Jeshiko9963/Jeshiko9963/assets/174110877/30757edf-d3c3-4f08-8245-8963fb9f38c5"></a> <!-- Instagram -->
+   <a href=""><img src =""></a> <!-- Telegram -->
 </div>
 
 
