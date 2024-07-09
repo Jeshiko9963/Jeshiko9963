@@ -6,8 +6,10 @@
 
 <div id="social" align="center">
    <img src ="https://github.com/Jeshiko9963/Jeshiko9963/assets/174110877/4872ef9f-f3aa-430b-88e4-d6aaeecbabd5">
+   <img src ="https://github.com/Jeshiko9963/Jeshiko9963/assets/174110877/4872ef9f-f3aa-430b-88e4-d6aaeecbabd5">
+   <img src ="https://github.com/Jeshiko9963/Jeshiko9963/assets/174110877/4872ef9f-f3aa-430b-88e4-d6aaeecbabd5">
 </div>
-![VK](https://github.com/Jeshiko9963/Jeshiko9963/assets/174110877/4872ef9f-f3aa-430b-88e4-d6aaeecbabd5)
+
 
 
 
